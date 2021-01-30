@@ -1,0 +1,19 @@
+body {
+	background-color: #fdfdfd;
+	font-size: 100%;
+	font-family: Avenir;
+	margin: 30px;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+
+	text-align: left;
+}
+
+p{
+	font-size: 80%;
+}
